@@ -20,24 +20,7 @@ A simple Java console-based project that allows users to add student records, vi
 - Object-Oriented Programming (OOP)
 - ArrayList (Dynamic Data Handling)
 
-## How to Run
 
-1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/StudentGradeManagerJava.git
-   cd StudentGradeManagerJava
-
-2. Compile the Java file
-   javac StudentGradeManager.java
-
-3. Run the program
-   java StudentGradeManager
-
-## File Structure
-
-StudentGradeManagerJava/
-│
-├── StudentGradeManager.java   # Main program file
-└── README.md                  # Project documentation
 
 ## Sample Output
 
@@ -53,6 +36,6 @@ Student added successfully!
 ## Author
 
 - Snigdha Pushpendra
-- https://github.com/YOUR_USERNAME
+
 
 Feel free to fork, improve, or give a star if you like the project!
